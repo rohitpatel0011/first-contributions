@@ -1,4 +1,5 @@
 # Contributors
+
 <!-- prettier-ignore-start -->
 - [Abhishek Mishra](https://github.com/AbhiMishra-Now)
 - [Gelio](https://github.com/bigelio)
@@ -3955,6 +3956,7 @@
 - [shannon harrison]
 - [Wahyu Purnomo](https://github.com/warifp)
 - [satyam]
+- [rohit patel](https://github.com/rohitpatel0011)
 - [Gayatri Marrapu](https://github.com/gayatri1661)
 - [Tewogbade Bamidele](https://github.com/bamideletewogbade)
 - [Alejandro Avalos](https://github.com/ale_avalos240)
